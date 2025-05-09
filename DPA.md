@@ -106,7 +106,7 @@
 
 10. <span class="header_2">Term of Agreement</span>
 
-    1. This DPA will start when <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Customer</span> agree to a Cover Page for the DPA and sign or electronically accept the <span class="keyterms_link">Agreement</span>and will continue until the <span class="keyterms_link">Agreement</span>expires or is terminated. However, <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Customer</span> will each remain subject to the obligations in this DPA and Applicable Data Protection Laws until <span class="keyterms_link">Customer</span> stops transferring Customer Personal Data to <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Provider</span> stops Processing Customer Personal Data.
+    1. This DPA will start when <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Customer</span> agree to a Cover Page for the DPA and sign or electronically accept the <span class="keyterms_link">Agreement</span> and will continue until the <span class="keyterms_link">Agreement</span> expires or is terminated. However, <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Customer</span> will each remain subject to the obligations in this DPA and Applicable Data Protection Laws until <span class="keyterms_link">Customer</span> stops transferring Customer Personal Data to <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Provider</span> stops Processing Customer Personal Data.
 
 11. <span class="header_2">Definitions</span>
 
